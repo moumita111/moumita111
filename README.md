@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2023/10/10/12/36/lofi-8306349_1280.jpg)](https://github.com/moumita111)
+
 <h1 align="center">Hi 👋, I'm Moumita Afreen</h1>
 <h3 align="center">A Computer Science and Engineering student with a passion for coding and problem-solving. 💻 Currently exploring the realms of algorithms, data structures, and software development. 🚀 Excited about building innovative projects and contributing to the tech community.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
