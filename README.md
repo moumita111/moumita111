@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moumita111&label=Profile%20views&color=0e75b6&style=flat" alt="moumita111" /> </p>
 
-- 🌱 I’m currently learning **Python,Django,Html,CSS,Javascript**
-
+🌱 I’m currently learning Python, Django, HTML, CSS, JavaScript, as well as exploring Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI).
 - 📫 How to reach me **afreenmoumita12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
